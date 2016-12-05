@@ -2,7 +2,9 @@
 
 
 IP address: 35.163.43.2
+
 SSH port: `2200`
+
 URL: http://ec2-35-163-43-2.us-west-2.compute.amazonaws.com/
 
 ## Set up remote machine
