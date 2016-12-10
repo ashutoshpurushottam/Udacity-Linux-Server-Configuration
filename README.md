@@ -7,6 +7,8 @@ SSH port: `2200`
 
 URL: http://ec2-35-163-43-2.us-west-2.compute.amazonaws.com/
 
+The server hosts a movie catalogue written in Flask. The github repository for the catalogue is https://github.com/ashutoshpurushottam/The-Movie-Catalogue
+
 ## Set up remote machine
 
 - Add a new user called grader: `adduser grader`
